@@ -1,0 +1,34 @@
+call plug#begin('~/.vim/plugged')
+
+"Plugins:
+"
+"Git
+Plug 'tpope/vim-fugitive'
+Plug 'airblade/vim-gitgutter'
+"TreeViewFolders
+Plug 'preservim/nerdtree'
+"change quotes
+Plug 'tpope/vim-surround'
+"Syntax check
+Plug 'scrooloose/syntastic'
+"Faster commenting
+Plug 'preservim/nerdcommenter'
+"Beauty footer line
+"Plug 'itchyny/lightline.vim'
+"Plug 'powerline/powerline'
+Plug 'vim-airline/vim-airline'
+"Plug for latex
+Plug 'sirver/ultisnips'
+    let g:UltiSnipsExpandTrigger = '<tab>'
+    let g:UltiSnipsJumpForwardTrigger = '<tab>'
+    let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
+"Plug for latex
+Plug 'lervag/vimtex'
+    let g:tex_flavor='latex'
+    let g:vimtex_view_method='zathura'
+    let g:vimtex_quickfix_mode=0"Color chemes:
+"Plug for move etc files
+Plug 'tpope/vim-eunuch'
+"Plug 'tomasr/molokai'
+
+call plug#end()

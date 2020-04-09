@@ -1,0 +1,42 @@
+snippet forl "for loop for every in array" b
+for $1 in $2:
+	$3
+endsnippet
+
+snippet def "create def" b
+def $1($2):
+	$3
+endsnippet
+
+snippet defr "create def with return" b
+def $1($2):
+	$3
+	return 
+endsnippet
+
+snippet bin "#!/bin/env python3" b
+#!/bin/env python3
+endsnippet
+
+snippet brief "create comments for doxygen" b
+##\brief $1
+#\details $2
+endsnippet
+
+snippet imp "import module" b
+import $1
+endsnippet
+
+snippet from "from some import some" b
+from $1 import $
+endsnippet
+
+snippet class "create class" b
+class $1($2):
+	def __init__(self$3):
+		$4
+endsnippet
+
+snippet warn "warning comment" b
+##\warning $1
+endsnippet
