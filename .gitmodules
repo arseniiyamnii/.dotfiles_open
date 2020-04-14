@@ -1,0 +1,58 @@
+[submodule "VIM/.vim/bundle/nerdtree"]
+	path = VIM/.vim/bundle/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "VIM/.vim/bundle/nerdcommenter"]
+	path = VIM/.vim/bundle/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
+[submodule "VIM/.vim/bundle/vim-localvimrc"]
+	path = VIM/.vim/bundle/vim-localvimrc
+	url = https://github.com/embear/vim-localvimrc.git
+[submodule "VIM/.vim/bundle/vim-gitgutter"]
+	path = VIM/.vim/bundle/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "VIM/.vim/bundle/vim-fugitive"]
+	path = VIM/.vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "VIM/.vim/bundle/ultisnips"]
+	path = VIM/.vim/bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "VIM/.vim/bundle/recover.vim"]
+	path = VIM/.vim/bundle/recover.vim
+	url = https://github.com/chrisbra/recover.vim.git
+[submodule "VIM/.vim/bundle/undotree"]
+	path = VIM/.vim/bundle/undotree
+	url = https://github.com/mbbill/undotree.git
+[submodule "VIM/.vim/bundle/fzf.vim"]
+	path = VIM/.vim/bundle/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "VIM/.vim/bundle/ale"]
+	path = VIM/.vim/bundle/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "VIM/.vim/bundle/vimspector"]
+	path = VIM/.vim/bundle/vimspector
+	url = https://github.com/puremourning/vimspector.git
+[submodule "VIM/.vim/bundle/YouCompleteMe"]
+	path = VIM/.vim/bundle/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "VIM/.vim/bundle/CoVim"]
+	path = VIM/.vim/bundle/CoVim
+	url = https://github.com/FredKSchott/CoVim.git
+[submodule "VIM/.vim/bundle/vim-css-color"]
+	path = VIM/.vim/bundle/vim-css-color
+	url = https://github.com/ap/vim-css-color
+[submodule "qutebrowser/.config/qutebrowser/dracula"]
+	path = qutebrowser/.config/qutebrowser/dracula
+	url = https://github.com/dracula/qutebrowser.git
+	ignore = untracked
+[submodule "VIM/.vim/bundle/fzf"]
+	path = VIM/.vim/bundle/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "tmux/.tmux/tmux-resurrect"]
+	path = tmux/.tmux/tmux-resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect
+[submodule "VIM/.vim/bundle/vim-terraform"]
+	path = VIM/.vim/bundle/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
+[submodule "VIM/.vim/bundle/vim-markdown"]
+	path = VIM/.vim/bundle/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git

@@ -1,0 +1,5 @@
+pane	210513	0	:vim	0	:-	0	:/home/arsenii/prog/work/vavada-admin	1	vim	:vim
+pane	210513	1	:vim	1	:*	0	:/home/arsenii/prog/work/vavada-analytics	1	vim	:vim
+window	210513	0	0	:-	ca3d,174x47,0,0,0
+window	210513	1	1	:*	ca3e,174x47,0,0,1
+state	210513	

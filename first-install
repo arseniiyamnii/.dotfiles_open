@@ -1,0 +1,7 @@
+build-essential
+fzf
+git
+keepass2
+stow
+tmux
+vim-gtk

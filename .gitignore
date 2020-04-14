@@ -1,0 +1,16 @@
+VIM/.vim/plugged
+VIM/.vim/bundle
+VIM/.vim/view
+.netrwhist
+*.swp
+*.swo
+direnv/.config/direnv/allow
+zsh/.zsh_history
+VIM/.vim/undodir/*
+ranger/.config/ranger/bookmarks
+ranger/.config/ranger/history
+scripts/.scripts/timeupdate
+__pycache__/
+tmux/.tmux/resurrect/*
+tmux/.tmux/resurrect/last
+bash/.osh-update

@@ -1,0 +1,20 @@
+layout_virtualenv() {
+  local venv_path="$1"
+  source ${venv_path}/bin/activate
+}
+
+layout_virtualenvwrapper() {
+  local venv_path="${WORKON_HOME}/$1"
+  layout_virtualenv $venv_path
+}
+export_alias() {
+  local name=$1
+  shift
+  local alias_dir=$PWD/.direnv/aliases
+  local target="$alias_dir/$name"
+  mkdir -p "$alias_dir"
+  PATH_add "$alias_dir"
+  echo "#!/usr/bin/env bash" > "$target"
+  echo "$@" >> "$target"
+  chmod +x "$target"
+}

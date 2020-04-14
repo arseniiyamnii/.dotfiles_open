@@ -1,0 +1,7 @@
+pane	210513	0	:admin	1	:*	0	:/home/arsenii/prog/work/vavada-admin	1	vim	:vim
+pane	210513	1	:analytics	0	:	0	:/home/arsenii/prog/work/vavada-analytics	1	vim	:vim
+pane	210513	2	:templates	0	:-	0	:/home/arsenii/prog/work/gitlab-ci-templates	1	vim	:vim
+window	210513	0	1	:*	c93e,191x47,0,0,1
+window	210513	1	0	:	c93f,191x47,0,0,2
+window	210513	2	0	:-	c940,191x47,0,0,3
+state	210513	

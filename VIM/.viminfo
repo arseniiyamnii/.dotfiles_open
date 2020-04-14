@@ -1,0 +1,1111 @@
+# Этот файл viminfo автоматически создан Vim 8.1.
+# Его можно (осторожно!) редактировать.
+
+# Viminfo version
+|1,4
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Последний Шаблон поиска:
+~MSle0~/"plugins_install
+
+# Последний Замена Шаблон поиска:
+~MSle0&localvimrc_file_dir
+
+# Последняя строка для замены:
+$
+
+# Командная строка, история (начиная от свежего к старому):
+:qa!
+|2,0,1616508702,,"qa!"
+:wqa
+|2,0,1616507179,,"wqa"
+:source ~/.vimrc
+|2,0,1616507173,,"source ~/.vimrc"
+:w
+|2,0,1616507170,,"w"
+:qa
+|2,0,1616506518,,"qa"
+:q
+|2,0,1616506495,,"q"
+:NERDTree
+|2,0,1616505574,,"NERDTree"
+:pwd
+|2,0,1616505526,,"pwd"
+:wq
+|2,0,1616504631,,"wq"
+:/alias
+|2,0,1616503952,,"/alias"
+:FZF .
+|2,0,1616503856,,"FZF ."
+:FZF /
+|2,0,1616503850,,"FZF /"
+:FZF ~
+|2,0,1616503820,,"FZF ~"
+:FZF
+|2,0,1616503801,,"FZF"
+:qqa
+|2,0,1616501922,,"qqa"
+:ALEFix
+|2,0,1616501251,,"ALEFix"
+:ALEEnable
+|2,0,1616501232,,"ALEEnable"
+:ALELint
+|2,0,1616501221,,"ALELint"
+:ALEDisable
+|2,0,1616501216,,"ALEDisable"
+:source %
+|2,0,1616498244,,"source %"
+:/lightblack/
+|2,0,1616497746,,"/lightblack/"
+:ALEInfo
+|2,0,1616494514,,"ALEInfo"
+:UltiSnipsEdit
+|2,0,1616493307,,"UltiSnipsEdit"
+:PlugInstall
+|2,0,1616490458,,"PlugInstall"
+:VimspectorReset
+|2,0,1616446258,,"VimspectorReset"
+:q!
+|2,0,1616445742,,"q!"
+:VimspectorAbortInstall
+|2,0,1616445489,,"VimspectorAbortInstall"
+:VimspectorEval
+|2,0,1616445475,,"VimspectorEval"
+:VimspectorWatch
+|2,0,1616445464,,"VimspectorWatch"
+:VimspectorInstall debugger-for-chrome
+|2,0,1616445382,,"VimspectorInstall debugger-for-chrome"
+:!tmux source %
+|2,0,1616445072,,"!tmux source %"
+:VimspectorInstall --force-enable-node
+|2,0,1616444026,,"VimspectorInstall --force-enable-node"
+:VimspectorInstall
+|2,0,1616443865,,"VimspectorInstall"
+:alefix
+|2,0,1616442906,,"alefix"
+:alelint
+|2,0,1616442365,,"alelint"
+:ALEinfo
+|2,0,1616441331,,"ALEinfo"
+:ALEDetail
+|2,0,1616440183,,"ALEDetail"
+:ALEFixSuggest
+|2,0,1616439592,,"ALEFixSuggest"
+:ALECodeAction
+|2,0,1616437027,,"ALECodeAction"
+:PlugClean
+|2,0,1616436221,,"PlugClean"
+:ale
+|2,0,1616436146,,"ale"
+:ALE
+|2,0,1616436143,,"ALE"
+:Autoformat
+|2,0,1616435391,,"Autoformat"
+:set filetype=python
+|2,0,1616434819,,"set filetype=python"
+:filetype=python
+|2,0,1616434814,,"filetype=python"
+:echom g:path_to_localvimrc
+|2,0,1616434464,,"echom g:path_to_localvimrc"
+:echom $HOME
+|2,0,1616433704,,"echom $HOME"
+:echom $MYVIMRC
+|2,0,1616433651,,"echom $MYVIMRC"
+:$MYVIMRC
+|2,0,1616433612,,"$MYVIMRC"
+:echom g:localvimrc_script_dir_unresolved
+|2,0,1616433386,,"echom g:localvimrc_script_dir_unresolved"
+
+# Строка поиска, история (начиная от свежего к старому):
+?/"plugins_install
+|2,1,1616506692,47,"\"plugins_install"
+?/"statusline_edit
+|2,1,1616506673,47,"\"statusline_edit"
+? alias
+|2,1,1616503952,,"alias"
+?/alias
+|2,1,1616503941,47,"alias"
+??lightblack
+|2,1,1616497815,63,"lightblack"
+? lightblack
+|2,1,1616497746,,"lightblack"
+?/lightblack/
+|2,1,1616497583,47,"lightblack/"
+?/LineNr/
+|2,1,1616497555,47,"LineNr/"
+? \s\+$
+|2,1,1616435391,,"\\s\\+$"
+? localvimrc_file_dir
+|2,1,1616433126,,"localvimrc_file_dir"
+?/8026/
+|2,1,1616412966,47,"8026/"
+? @$
+|2,1,1616365889,,"@$"
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+@a
+|2,3,1616494902,,"a"
+@y
+|2,3,1616436224,,"y"
+
+# Строка отладки, история (начиная от свежего к старому):
+
+# Регистры:
+"0	LINE	0
+	"statusline_edit
+|3,0,0,1,1,0,1616506635,"\"statusline_edit"
+"1	LINE	0
+	/home/arsenii/programming/ya_todo_mgr/public/index.php
+|3,0,1,1,1,0,1616501875,"/home/arsenii/programming/ya_todo_mgr/public/index.php"
+"2	LINE	0
+	
+|3,0,2,1,1,0,1616497232,""
+"3	LINE	0
+	    "Automatically change the statusline color depending on mode
+	
+|3,0,3,1,2,0,1616497229,"    \"Automatically change the statusline color depending on mode",""
+"4	LINE	0
+	  return ''
+	endfunction
+|3,0,4,1,2,0,1616497225,"  return ''","endfunction"
+"5	LINE	0
+	function! ChangeStatuslineColor()
+	  if (mode() =~# '\v(n|no)')
+	    exe 'hi! StatusLine ctermfg=008'
+	  elseif (mode() =~# '\v(v|V)' || g:currentmode[mode()] ==# 'V·Block' || get(g:currentmode, mode(), '') ==# 't')
+	    exe 'hi! StatusLine ctermfg=005'
+	  elseif (mode() ==# 'i')
+	    exe 'hi! StatusLine ctermfg=004'
+	  else
+	    exe 'hi! StatusLine ctermfg=006'
+	  endif
+|3,0,5,1,10,0,1616497220,"function! ChangeStatuslineColor()","  if (mode() =~# '\\v(n|no)')","    exe 'hi! StatusLine ctermfg=008'","  elseif (mode() =~# '\\v(v|V)' || g:currentmode[mode()] ==# 'V·Block' || get(g:currentmode, mode(), '') ==# 't')","    exe 'hi! StatusLine ctermfg=005'","  elseif (mode() ==# 'i')","    exe 'hi! StatusLine ctermfg=004'","  else","    exe 'hi! StatusLine ctermfg=006'","  endif"
+"6	LINE	0
+	" Initialize plugin system
+|3,0,6,1,1,0,1616496437,"\" Initialize plugin system"
+"7	LINE	0
+	
+|3,0,7,1,1,0,1616496362,""
+"8	LINE	0
+	
+|3,0,8,1,1,0,1616496361,""
+"9	LINE	0
+	"Plugins
+|3,0,9,1,1,0,1616496327,"\"Plugins"
+""-	CHAR	0
+	set statusline+=\ %p%%
+|3,1,36,0,1,0,1616507089,"set statusline+=\\ %p%%"
+
+# Глобальные отметки:
+'0  51  0  ~/programming/ya_btm/ya_btm.sh
+|4,48,51,0,1616508702,"~/programming/ya_btm/ya_btm.sh"
+'1  16  0  ~/.vimrc
+|4,49,16,0,1616507179,"~/.vimrc"
+'2  6  0  ~/programming/htmlA25/bootstrap-4.3.1-dist/js/bootstrap.js
+|4,50,6,0,1616506552,"~/programming/htmlA25/bootstrap-4.3.1-dist/js/bootstrap.js"
+'3  14  41  ~/programming/htmlA25/index.html
+|4,51,14,41,1616506518,"~/programming/htmlA25/index.html"
+'4  18  0  ~/.tmux.conf
+|4,52,18,0,1616506495,"~/.tmux.conf"
+'5  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,53,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+'6  14  41  ~/programming/htmlA25/index.html
+|4,54,14,41,1616505530,"~/programming/htmlA25/index.html"
+'7  40  34  ~/.dotfiles/bash/.oh-my-bash/aliases/general.aliases.sh
+|4,55,40,34,1616505501,"~/.dotfiles/bash/.oh-my-bash/aliases/general.aliases.sh"
+'8  14  41  ~/programming/htmlA25/index.html
+|4,56,14,41,1616505476,"~/programming/htmlA25/index.html"
+'9  14  41  ~/programming/htmlA25/index.html
+|4,57,14,41,1616505476,"~/programming/htmlA25/index.html"
+
+# Список прыжков (сначала более свежие):
+-'  51  0  ~/programming/ya_btm/ya_btm.sh
+|4,39,51,0,1616508702,"~/programming/ya_btm/ya_btm.sh"
+-'  43  0  ~/programming/ya_btm/ya_btm.sh
+|4,39,43,0,1616507203,"~/programming/ya_btm/ya_btm.sh"
+-'  16  0  ~/.vimrc
+|4,39,16,0,1616507179,"~/.vimrc"
+-'  16  0  ~/.vimrc
+|4,39,16,0,1616507179,"~/.vimrc"
+-'  5  0  ~/.vimrc
+|4,39,5,0,1616506692,"~/.vimrc"
+-'  5  0  ~/.vimrc
+|4,39,5,0,1616506692,"~/.vimrc"
+-'  10  0  ~/.vimrc
+|4,39,10,0,1616506679,"~/.vimrc"
+-'  10  0  ~/.vimrc
+|4,39,10,0,1616506679,"~/.vimrc"
+-'  2  0  ~/.vimrc
+|4,39,2,0,1616506673,"~/.vimrc"
+-'  2  0  ~/.vimrc
+|4,39,2,0,1616506673,"~/.vimrc"
+-'  12  0  ~/.vimrc
+|4,39,12,0,1616506660,"~/.vimrc"
+-'  12  0  ~/.vimrc
+|4,39,12,0,1616506660,"~/.vimrc"
+-'  60  0  ~/.vimrc
+|4,39,60,0,1616506563,"~/.vimrc"
+-'  60  0  ~/.vimrc
+|4,39,60,0,1616506563,"~/.vimrc"
+-'  6  0  ~/programming/htmlA25/bootstrap-4.3.1-dist/js/bootstrap.js
+|4,39,6,0,1616506552,"~/programming/htmlA25/bootstrap-4.3.1-dist/js/bootstrap.js"
+-'  6  0  ~/programming/htmlA25/bootstrap-4.3.1-dist/js/bootstrap.js
+|4,39,6,0,1616506552,"~/programming/htmlA25/bootstrap-4.3.1-dist/js/bootstrap.js"
+-'  6  0  ~/programming/htmlA25/bootstrap-4.3.1-dist/js/bootstrap.js
+|4,39,6,0,1616506552,"~/programming/htmlA25/bootstrap-4.3.1-dist/js/bootstrap.js"
+-'  6  0  ~/programming/htmlA25/bootstrap-4.3.1-dist/js/bootstrap.js
+|4,39,6,0,1616506552,"~/programming/htmlA25/bootstrap-4.3.1-dist/js/bootstrap.js"
+-'  14  41  ~/programming/htmlA25/index.html
+|4,39,14,41,1616506518,"~/programming/htmlA25/index.html"
+-'  14  41  ~/programming/htmlA25/index.html
+|4,39,14,41,1616506518,"~/programming/htmlA25/index.html"
+-'  14  41  ~/programming/htmlA25/index.html
+|4,39,14,41,1616506518,"~/programming/htmlA25/index.html"
+-'  14  41  ~/programming/htmlA25/index.html
+|4,39,14,41,1616506518,"~/programming/htmlA25/index.html"
+-'  14  41  ~/programming/htmlA25/index.html
+|4,39,14,41,1616506518,"~/programming/htmlA25/index.html"
+-'  14  41  ~/programming/htmlA25/index.html
+|4,39,14,41,1616506518,"~/programming/htmlA25/index.html"
+-'  14  41  ~/programming/htmlA25/index.html
+|4,39,14,41,1616506518,"~/programming/htmlA25/index.html"
+-'  14  41  ~/programming/htmlA25/index.html
+|4,39,14,41,1616506518,"~/programming/htmlA25/index.html"
+-'  1  0  ~/programming/htmlA25/scripts.js
+|4,39,1,0,1616506509,"~/programming/htmlA25/scripts.js"
+-'  1  0  ~/programming/htmlA25/scripts.js
+|4,39,1,0,1616506509,"~/programming/htmlA25/scripts.js"
+-'  1  0  ~/programming/htmlA25/scripts.js
+|4,39,1,0,1616506509,"~/programming/htmlA25/scripts.js"
+-'  1  0  ~/programming/htmlA25/scripts.js
+|4,39,1,0,1616506509,"~/programming/htmlA25/scripts.js"
+-'  1  0  ~/programming/htmlA25/scripts.js
+|4,39,1,0,1616506509,"~/programming/htmlA25/scripts.js"
+-'  1  0  ~/programming/htmlA25/scripts.js
+|4,39,1,0,1616506509,"~/programming/htmlA25/scripts.js"
+-'  1  0  ~/programming/htmlA25/scripts.js
+|4,39,1,0,1616506509,"~/programming/htmlA25/scripts.js"
+-'  1  0  ~/programming/htmlA25/scripts.js
+|4,39,1,0,1616506509,"~/programming/htmlA25/scripts.js"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  18  0  ~/.tmux.conf
+|4,39,18,0,1616506495,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  40  9  ~/.tmux.conf
+|4,39,40,9,1616506411,"~/.tmux.conf"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  5  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,5,3,1616505585,"/var/www/mywordpress.com/NERD_tree_1"
+-'  1  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,1,3,1616505583,"/var/www/mywordpress.com/NERD_tree_1"
+-'  1  3  /var/www/mywordpress.com/NERD_tree_1
+|4,39,1,3,1616505583,"/var/www/mywordpress.com/NERD_tree_1"
+
+# История местных отметок (от более свежих к старым):
+
+> ~/programming/ya_btm/ya_btm.sh
+	*	1616507222	0
+	"	51	0
+
+> ~/.vimrc
+	*	1616507176	0
+	"	16	0
+	^	18	0
+	.	18	0
+	+	44	0
+	+	49	0
+	+	53	0
+	+	58	0
+	+	66	0
+	+	69	0
+	+	67	16
+	+	60	12
+	+	39	24
+	+	31	12
+	+	11	16
+	+	14	0
+	+	69	0
+	+	70	14
+	+	76	0
+	+	82	23
+	+	81	0
+	+	83	0
+	+	79	30
+	+	77	25
+	+	86	0
+	+	87	17
+	+	89	0
+	+	106	0
+	+	26	22
+	+	13	0
+	+	13	11
+	+	30	61
+	+	30	18
+	+	31	0
+	+	13	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	19	0
+	+	17	0
+	+	19	0
+	+	32	0
+	+	31	16
+	+	19	53
+	+	19	0
+	+	26	22
+	+	27	17
+	+	26	22
+	+	28	0
+	+	30	18
+	+	16	0
+	+	19	0
+	+	15	0
+	+	17	0
+	+	26	22
+	+	28	48
+	+	26	22
+	+	20	0
+	+	22	38
+	+	65	15
+	+	61	16
+	+	62	0
+	+	65	29
+	+	67	0
+	+	62	17
+	+	63	0
+	+	12	0
+	+	27	0
+	+	28	18
+	+	27	17
+	+	28	19
+	+	27	18
+	+	28	18
+	+	27	17
+	+	28	18
+	+	21	18
+	+	22	0
+	+	21	19
+	+	22	0
+	+	30	18
+	+	28	48
+	+	30	18
+	+	31	0
+	+	27	22
+	+	28	20
+	+	26	0
+	+	27	25
+	+	28	0
+	+	27	20
+	+	26	0
+	+	28	22
+	+	18	0
+
+> ~/programming/htmlA25/bootstrap-4.3.1-dist/js/bootstrap.js
+	*	1616506547	0
+	"	6	0
+	.	6	0
+	+	4435	0
+	+	5	4
+	+	6	0
+
+> ~/programming/htmlA25/scripts.js
+	*	1616506509	0
+	"	4	2
+	^	5	3
+	.	5	3
+	+	1	0
+	+	2	0
+	+	3	0
+	+	5	0
+	+	1	0
+	+	5	1
+	+	11	0
+	+	1	3
+	+	1	64
+	+	1	60
+	+	1	21
+	+	2	1
+	+	11	0
+	+	3	0
+	+	1	0
+	+	11	0
+	+	2	0
+	+	3	6
+	+	5	3
+
+> ~/programming/htmlA25/index.html
+	*	1616506509	0
+	"	14	41
+	^	14	42
+	.	15	0
+	+	1	0
+	+	153	0
+	+	1	0
+	+	2	0
+	+	154	0
+	+	166	3
+	+	166	5
+	+	166	10
+	+	166	12
+	+	166	0
+	+	166	13
+	+	166	11
+	+	1	0
+	+	2	0
+	+	6	22
+	+	166	0
+	+	6	22
+	+	166	0
+	+	4	5
+	+	5	7
+	+	7	0
+	+	166	0
+	+	2	16
+	+	14	42
+	+	15	0
+
+> ~/.tmux.conf
+	*	1616506493	0
+	"	18	0
+	^	40	10
+	.	40	9
+	+	1	29
+	+	1	74
+	+	1	58
+	+	1	81
+	+	1	13
+	+	1	20
+	+	4	50
+	+	4	28
+	+	3	40
+	+	13	206
+	+	4	28
+	+	7	18
+	+	8	32
+	+	9	34
+	+	4	28
+	+	7	18
+	+	8	32
+	+	4	28
+	+	7	18
+	+	8	32
+	+	9	34
+	+	10	203
+	+	10	110
+	+	10	240
+	+	10	48
+	+	10	205
+	+	10	0
+	+	10	224
+	+	11	0
+	+	11	231
+	+	13	130
+	+	12	102
+	+	13	127
+	+	12	88
+	+	13	96
+	+	13	190
+	+	20	89
+	+	20	0
+	+	12	116
+	+	11	79
+	+	11	221
+	+	10	0
+	+	9	0
+	+	1	0
+	+	4	0
+	+	10	135
+	+	19	26
+	+	8	32
+	+	9	0
+	+	5	0
+	+	4	0
+	+	1	11
+	+	15	11
+	+	22	21
+	+	21	0
+	+	22	22
+	+	26	29
+	+	25	0
+	+	24	0
+	+	23	0
+	+	24	13
+	+	25	11
+	+	26	13
+	+	24	28
+	+	25	26
+	+	26	28
+	+	16	13
+	+	18	23
+	+	18	0
+	+	16	13
+	+	18	10
+	+	11	54
+	+	10	0
+	+	11	54
+	+	10	260
+	+	11	54
+	+	32	14
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	20	6
+	+	40	61
+	+	38	10
+	+	40	39
+	+	38	12
+	+	40	41
+	+	38	31
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	40	57
+	+	40	8
+	+	40	29
+	+	41	0
+	+	40	8
+	+	39	0
+	+	40	9
+
+> /var/www/mywordpress.com/NERD_tree_1
+	*	1616505583	0
+	"	5	3
+	.	1	0
+	+	1	0
+
+> ~/.dotfiles/bash/.oh-my-bash/aliases/general.aliases.sh
+	*	1616505500	0
+	"	40	34
+	^	40	35
+	.	40	34
+	+	38	21
+	+	39	22
+	+	40	26
+	+	38	38
+	+	37	0
+	+	39	0
+	+	37	0
+	+	38	0
+	+	40	34
+
+> ~/.bashrc
+	*	1616503960	0
+	"	61	0
+
+> ~/programming/htmlA25/main.py
+	*	1616503806	0
+	"	4	11
+	^	4	12
+	.	4	11
+	+	1	0
+	+	1	15
+	+	4	10
+	+	2	2
+	+	5	8
+	+	6	6
+	+	4	11
+
+> ~/programming/htmlA25/style.css
+	*	1616503773	0
+	"	28	0
+	.	64	0
+	+	64	0
+
+> ~/NERD_tree_1
+	*	1616498093	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/composer-setup.php
+	*	1616498036	0
+	"	6	0
+	^	29	0
+
+> ~/.vim/colors/monokai.vim
+	*	1616498014	0
+	"	74	6
+	^	234	0
+	.	168	0
+	+	134	0
+	+	132	0
+	+	167	0
+	+	168	0
+
+> ~/.vim/autoload/plug.vim
+	*	1616496822	0
+	"	410	0
+
+> ~/git-reminder.sh
+	*	1616495058	0
+	"	7	0
+
+> ~/.gitconfig
+	*	1616495036	0
+	"	1	0
+
+> ~/programming/htmlA25/.lvimrc
+	*	1616494902	0
+	"	42	0
+	^	42	0
+	.	37	13
+	+	28	0
+	+	29	0
+	+	29	52
+	+	1	0
+	+	22	7
+	+	18	23
+	+	1	5
+	+	18	22
+	+	1	0
+	+	18	22
+	+	1	0
+	+	31	0
+	+	23	0
+	+	21	17
+	+	22	0
+	+	1	25
+	+	18	43
+	+	1	25
+	+	29	0
+	+	29	52
+	+	29	23
+	+	22	2
+	+	21	27
+	+	21	0
+	+	18	20
+	+	1	0
+	+	18	17
+	+	19	0
+	+	13	5
+	+	10	26
+	+	15	0
+	+	29	0
+	+	29	52
+	+	12	26
+	+	10	28
+	+	12	28
+	+	29	28
+	+	30	0
+	+	30	5
+	+	29	30
+	+	34	32
+	+	40	0
+	+	39	28
+	+	29	0
+	+	30	0
+	+	40	35
+	+	41	4
+	+	21	0
+	+	29	0
+	+	21	0
+	+	29	0
+	+	29	22
+	+	21	19
+	+	29	22
+	+	1	0
+	+	21	42
+	+	21	55
+	+	21	3
+	+	21	19
+	+	1	33
+	+	5	0
+	+	4	25
+	+	20	37
+	+	21	20
+	+	29	23
+	+	8	1
+	+	6	10
+	+	6	0
+	+	29	47
+	+	29	1
+	+	21	0
+	+	22	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	42	0
+	+	1	67
+	+	6	53
+	+	15	1
+	+	6	54
+	+	7	24
+	+	9	0
+	+	16	19
+	+	25	0
+	+	18	0
+	+	16	20
+	+	26	22
+	+	32	17
+	+	35	0
+	+	36	32
+	+	37	13
+
+> ~/programming/htmlA25/node_modules/some
+	*	1616494442	0
+	"	1	0
+
+> ~/programming/htmlA25/NERD_tree_1
+	*	1616494406	0
+	"	8	0
+	.	1	0
+	+	1	0
+
+> ~/Tests/vimtest/.lvimrc
+	*	1616494382	0
+	"	1	0
+	.	1	0
+	+	1	12
+	+	1	5
+	+	1	0
+
+> ~/Tests/vimtest/some
+	*	1616494372	0
+	"	1	0
+	^	6	8
+	.	6	8
+	+	3	11
+	+	7	11
+	+	6	7
+	+	6	8
+
+> ~/Tests/vimtest/NERD_tree_1
+	*	1616494368	0
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~/.vim/UltiSnips/vim.snippets
+	*	1616493334	0
+	"	13	4
+	^	13	5
+	.	13	4
+	+	1	9
+	+	1	14
+	+	1	5
+	+	1	9
+	+	1	1
+	+	1	0
+	+	1	6
+	+	1	9
+	+	5	10
+	+	11	10
+	+	7	10
+	+	16	10
+	+	12	11
+	+	8	4
+	+	13	4
+
+> ~/.zshrc
+	*	1616490749	0
+	"	1	0
+
+> ~/programming/htmlA25/.vimspector.json
+	*	1616446005	0
+	"	10	47
+	^	10	45
+	.	10	0
+	+	15	0
+	+	10	0
+
+> ~/programming/htmlA25/package.json
+	*	1616443099	0
+	"	20	36
+
+> ~/.eslintrc
+	*	1616439922	0
+	"	1	0
+
+> ~/programming/ya_btm/render.py
+	*	1616436282	0
+	"	32	0
+
+> ~/programming/ya_btm/install.sh
+	*	1616435812	0
+	"	5	39
+
+> ~/programming/htmlA25/bootstrap-4.3.1-dist/css/bootstrap.css
+	*	1616434654	0
+	"	1	0
+
+> ~/programming/htmlA25/.envrc
+	*	1616433717	0
+	"	1	0
+
+> ~/programming/htmlA25/NERD_tree_3
+	*	1616433513	0
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~/programming/htmlA25/NERD_tree_2
+	*	1616432172	0
+	"	10	0
+	.	1	0
+	+	1	0
+
+> ~/programming/htmlA25/style.sass
+	*	1616419921	0
+	"	1	0
+
+> ~/NERD_tree_6
+	*	1616418718	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/NERD_tree_2
+	*	1616418713	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/NERD_tree_3
+	*	1616418713	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/NERD_tree_4
+	*	1616418713	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.dotfiles/VIM/.vim/view/~=+.vimrc=
+	*	1616418713	0
+	"	1	0
+
+> ~/.dotfiles/.vim/spell/ru.utf-8.sug
+	*	1616418713	0
+	"	1	0
+
+> ~/.dotfiles/.vim/spell/ru.utf-8.spl
+	*	1616418713	0
+	"	1	0
+
+> ~/NERD_tree_5
+	*	1616418713	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/iptables.conf
+	*	1616412974	0
+	"	65	31
+
+> ~/Tests/vimtest/testdir/main.py
+	*	1616407573	0
+	"	7	0
+	^	9	0
+	.	8	12
+	+	1	17
+	+	4	7
+	+	6	4
+	+	8	12
+
+> ~/bookmarklet.html
+	*	1616405892	0
+	"	1	0
+
+> ~/Tests/vimtest/.vimrc
+	*	1616400281	0
+	"	1	0
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/Tests/vimtest/test.py
+	*	1616398758	0
+	"	1	0
+
+> ~/Tests/vimtest/.some.swo
+	*	1616379879	0
+	"	1	0
+
+> ~/Tests/vimtest/.some.swp
+	*	1616379874	0
+	"	1	0
+
+> ~/afk.sh
+	*	1616379525	0
+	"	7	0
+
+> ~/Package.list
+	*	1616378801	0
+	"	1	0
+
+> ~/.vim/plugged/nerdtree/doc/NERDTree.txt
+	*	1616377126	0
+	"	151	0
+
+> /usr/share/vim/vim81/doc/options.txt
+	*	1616369395	0
+	"	6175	27
+
+> ~/.config/terminator/config
+	*	1616367686	0
+	"	8	46
+	^	8	47
+	.	8	46
+	+	8	46
+
+> ~/Tests/somefile
+	*	1616365768	0
+	"	2	11
+	^	2	12
+	.	2	11
+	+	1	10
+	+	2	11
+
+> ~/programming/badge-gen/badge-gen
+	*	1616364513	0
+	"	1	1
+
+> ~/.tmux/power.sh
+	*	1616356273	0
+	"	2	103
+	^	2	104
+	.	2	104
+	+	2	209
+	+	1	66
+	+	2	108
+	+	1	8
+	+	1	107
+	+	1	0
+	+	2	117
+	+	2	222
+	+	3	0
+	+	2	0
+	+	2	104

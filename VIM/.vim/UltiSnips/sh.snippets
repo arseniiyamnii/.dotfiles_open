@@ -1,0 +1,45 @@
+snippet bin "bin bash" b
+#!/bin/bash
+$1
+endsnippet
+
+snippet ifapp "if app exist do something" b
+if  [ -x "$(command -v $1)" ]; then
+	$2
+fi
+endsnippet
+
+snippet ifappelse "if app exist do something" b
+if  [ -x "$(command -v $1)" ]; then
+	$2
+else
+	echo "you need install $1"
+fi
+endsnippet
+
+snippet vifapp "if app with visual select" b
+if  [ -x "$(command -v $1)" ]; then
+	${VISUAL}
+fi
+
+endsnippet
+
+snippet lfunc "function" b
+function $1 () { $2; }
+endsnippet
+
+snippet func "function" b
+function $1 {
+	$2
+}
+endsnippet
+
+snippet exp "export" b
+export $1="$2"
+$3
+endsnippet
+
+snippet sexp "same export" b
+export $1="$1"
+$2
+endsnippet

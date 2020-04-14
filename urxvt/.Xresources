@@ -1,0 +1,169 @@
+! Author Minbari
+!
+! URXVT NAME
+! !------------------------------------------------
+ 
+  URxvt*termName: xterm-256color
+
+! URXVT GEOMETRY
+! !------------------------------------------------
+ 
+  URxvt*geometry:  240x84
+
+
+! URXVT FONTS
+! !------------------------------------------------
+
+  URxvt.font: xft:Ubuntu Mono:size=15
+  URxvt*boldFont:xft:Ubuntu Mono:bold:size=15
+  URxvt*italicFont:xft:Ubuntu Mono:italic:size=15
+  URxvt*boldItalicFont:xft:Ubuntu Mono:bold:italic:size=15
+  URxvt*allow_bold: true
+
+! URXVT SCROLLBAR, CURSOR STYLE, BORDER
+! !------------------------------------------------
+ 
+  URxvt*saveLines:                        3000000
+  URxvt.scrollBar:                        false
+  URxvt*scrollstyle:                      plain
+  URxvt.scrollBar_right:                  false
+  URxvt*scrollWithBuffer:                 true
+  URxvt*scrollTtyKeypress:                true
+  URxvt*scrollTtyOutput:                  false
+  URxvt*cursorBlink:                      true
+  URxvt*cursorUnderline:                  false
+  URxvt*cursorColor:                      #F1F014
+  URxvt*pointerColor2:                    #002B36
+  URxvt*fading:                           20
+  URxvt*borderColor:                  [100]#131520
+  URxvt*borderLess:                       false
+  URxvt*letterSpace:                      0
+  URxvt.lineSpace:                        0
+  URxvt.intensityStyles:                  false
+
+ 
+! URXVT ENABLE LINK SUPPORT
+! !------------------------------------------------
+
+  URxvt*colorUL:                          #1a8cff
+  URxvt*underlineColor:                   #F1F014
+  URxvt.url-launcher: /usr/bin/firefox
+
+! URXVT PERL EXTENSION
+! !------------------------------------------------
+
+  URxvt.perl-ext-common: default,matcher
+  URxvt.matcher.button: 1
+!  URxvt.perl-ext: tabbedex 
+! URXVT COPY PASTE SHORTCUTS
+! !------------------------------------------------
+
+  URxvt.iso14755: False
+  URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+  URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+!  URxvt.keysym.Shift-Control-C: perl:clipboard:copy
+!  URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+ 
+! URXVT KEY BINDS
+! !------------------------------------------------
+
+  URxvt.keysym.Home: \033[1~
+  URxvt.keysym.End: \033[4~
+  URxvt.keysym.KP_Home: \033[1~
+  URxvt.keysym.KP_End:  \033[4~
+  URxvt.keysym.F11: wmctrl -x -r urxvt -b toggle,fullscreen \n
+! wmctrl -x -r urxvt -b toggle,fullscreen
+!
+! disable the bell
+! !------------------------------------------------
+
+  URxvt.insecure:                         false
+
+! URXVT TABS
+! !------------------------------------------------
+  
+!  URxvt.tabbed.autohide:        yes
+!  URxvt.tabbed.tabbar-fg:       10
+!  URxvt.tabbed.tabbar-bg:       8
+!  URxvt.tabbed.tab-fg:          6
+!  URxvt.tabbed.tab-bg:          16
+!  URxvt.tabbed.title:           no
+!  URxvt.tabbed.new-button:      true
+URxvt.tabbed.tabbar-fg: 2
+URxvt.tabbed.tabbar-bg: 0
+URxvt.tabbed.tab-fg: 2
+URxvt.tabbed.tab-bg: 0
+URxvt.tabbed.autohide:  yes
+URxvt.tabbed.new-button:  no
+URxvt.tabbed.title: yes
+
+! URXVT COLORS
+! !------------------------------------------------
+
+ URxvt.colorIT:                                  #87af5f
+ URxvt.colorBD:                                  #d7d7d7
+ URxvt.depth: 32
+ URxvt.background:                           [100]#131520
+ URxvt*foreground:                               #ffffff
+! !black
+ *color0:                                        #505758
+ *color8:                                        #070707
+! !red
+ *color1:                                        #FF0000
+ *color9:                                        #B80000
+! !green
+ *color2:                                        #33CC33
+ *color10:                                       #384d23
+! !yellow
+ *color3:                                        #FFFF00
+ *color11:                                       #E6E600
+! !blue
+ *color4:                                        #3366FF
+ *color12:                                       #1919FF
+! !magenta
+ *color5:                                        #D119D1
+ *color13:                                       #A319A3
+! !cyan
+ *color6:                                        #33D6FF
+ *color14:                                       #29A3A3
+! !white
+ *color7:                                        #FAFAFA
+ *color15:                                       #D1D1D1
+
+! for ranger dark theme
+! special
+*.foreground:   #dfdfdf
+*.background:   #232332
+*.cursorColor:  #dfdfdf
+
+! black
+*.color0:       #505758
+*.color8:       #e1aa57
+
+! red
+*.color1:       #f94757
+*.color9:       #f45b69
+
+! green
+*.color2:       #00b159
+*.color10:      #28b56f
+
+! yellow
+*.color3:       #fcb928
+*.color11:      #f9c34f
+
+! blue
+*.color4:       #1882dc
+*.color12:      #308bd8
+
+! magenta
+*.color5:       #7474b3
+*.color13:      #7474b3
+
+! cyan
+*.color6:       #33a5db
+*.color14:      #5fb5de
+
+! white
+*.color7:       #8c7676
+*.color15:      #dfdfdf
